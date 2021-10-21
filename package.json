@@ -1,0 +1,24 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "Let's spin up a simple application to learn Jest based testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordT/learning-jest.git"
+  },
+  "keywords": [
+    "react",
+    "jest",
+    "node"
+  ],
+  "author": "Jordan Thomson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordT/learning-jest/issues"
+  },
+  "homepage": "https://github.com/JordT/learning-jest#readme"
+}
